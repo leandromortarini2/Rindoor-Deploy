@@ -3,7 +3,7 @@
 import React from "react";
 import Image from "next/image";
 import Login from "../../assets/login.svg";
-import X from "../../assets/x.svg";
+import X from "../../assets/X.svg";
 import { useState } from "react";
 import BurgerImg from "../../assets/burger.svg";
 import Link from "next/link";
